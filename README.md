@@ -1,13 +1,21 @@
-# Projects
+# Personal Projects
 
-Project name
+### Project Title
+_________________
 
-Link to the repo
+**Repo Link**
+ https://github.com/EduhG/githubrepo
 
-Project details
+**Project Details**
+ A short description about the project
 
-Features
 
-Tools used
+**Features**
+Features of the project
 
-Contributors
+**Tools**
+Tools used to build the project
+
+**Contributors**
+[Edwin Nyangena](https://github.com/EduhG)
+ 
