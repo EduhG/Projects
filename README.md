@@ -3,8 +3,7 @@
 ### Project Title
 _________________
 
-**Repo Link**
- https://github.com/EduhG/githubrepo
+**Repo Link** https://github.com/EduhG/githubrepo
 
 **Project Details**
 
@@ -19,7 +18,5 @@ Features of the project
 
 Tools used to build the project
 
-**Contributors**
-
-[Edwin Nyangena](https://github.com/EduhG)
+**Contributors** [Edwin Nyangena](https://github.com/EduhG)
  
