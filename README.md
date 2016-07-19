@@ -3,20 +3,24 @@
 ### Project Title
 _________________
 
-**Repo Link** https://github.com/EduhG/githubrepo
+**Repo Link** https://github.com/EduhG/JedoMagra
 
 **Project Details**
 
- A short description about the project
+ A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
 
 
 **Features**
 
-Features of the project
+Single page website with 4 Sections:
+* Home
+* Our Products
+* About Us
+* Contacts
 
 **Tools Used**
 
-Tools used to build the project
+HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
  
