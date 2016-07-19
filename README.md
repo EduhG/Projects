@@ -1,6 +1,6 @@
 # Personal Projects
 
-### Project Title
+### JedoMagra Enterprises
 _________________
 
 **Repo Link** https://github.com/EduhG/JedoMagra
