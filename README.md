@@ -5,10 +5,11 @@ _________________
 
 **Repo Link** https://github.com/EduhG/JedoMagra
 
+**Website Link** https://jedomagra-enterprises.netlify.com
+
 **Project Details**
 
  A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
-
 
 **Features**
 
@@ -23,4 +24,6 @@ Single page website with 4 Sections:
 HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
+ 
+
  
