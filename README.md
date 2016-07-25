@@ -1,9 +1,9 @@
 ### Personal Website
 _________________
 
-**Repo Link** https://github.com/EduhG/JedoMagra
+**Repo Link** https://github.com/EduhG/my-personal-website
 
-**Website Link** https://jedomagra-enterprises.netlify.com
+**Website Link** https://eduhg.netlify.com
 
 **Project Details**
 
@@ -23,7 +23,6 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
  
-
 
 
 # Personal Projects
@@ -55,7 +54,7 @@ HTML, CSS, JS, Foundation Framework and Jquery
  
 
 
-
+#
 ### JedoMagra Enterprises
 _________________
 
