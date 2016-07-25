@@ -51,32 +51,59 @@ Single page website with 4 Sections:
 HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
- 
+<br> 
 
 
-#
-### JedoMagra Enterprises
+
+### Ultra Buildings
 _________________
 
-**Repo Link** https://github.com/EduhG/Student-System
+**Repo Link** https://github.com/EduhG/Ultra-Buildings
 
-**Website Link** https://student-system.netlify.com
+**Website Link** https://ultra-structures.netlify.com
 
 **Project Details**
 
- A Web based student details system, with a dashboard, that manages github contribution details, attendance details.
+A responsive single page website providing information about fancy buildings and structures: Facilities and technology used in building them
 
 **Features**
 
 Single page website with 4 Sections:
-* Login Page
-* Dashboard
+* Landing Section - Header
+* Details Section
 
 **Tools Used**
 
-HTML, CSS, JS, Foundation Framework, Jquery and Firebase
+HTML, CSS, JS, Foundation Framework, Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
- 
+<br> 
+
+
+
+### Najivunia Kenya
+_________________
+
+**Repo Link** https://github.com/EduhG/Najivunia-Kenya
+
+**Website Link** https://najivunia-kenya.netlify.com
+
+**Project Details**
+
+A website about the best places to visit in kenya as a tourist or hang out over the weekends with capability for people to suggest where to visit.
+
+
+**Features**
+
+Single page website with 4 Sections:
+* Landing Section - Header
+* Details Section
+
+**Tools Used**
+
+HTML, CSS, JS, Foundation Framework, Jquery
+
+**Contributors** [Edwin Nyangena](https://github.com/EduhG)
+  
 
  
