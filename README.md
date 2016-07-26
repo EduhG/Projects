@@ -7,14 +7,14 @@ _________________
 
 **Project Details**
 
- A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
+ A professional website with a brief description about me, the projects I have done, my education background and my contacts.
 
 **Features**
 
-Single page website with 4 Sections:
+A website with 4 Sections:
 * Home
-* Our Products
-* About Us
+* Resume
+* Portfolio
 * Contacts
 
 **Tools Used**
