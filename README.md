@@ -60,9 +60,9 @@ HTML, CSS, JS, Foundation Framework and Jquery
 ### 2. Ultra Buildings
 _________________
 
-**Repo Link** [Repository Link](https://github.com/EduhG/Ultra-Buildings)
+**Repo Link:** [Repository Link](https://github.com/EduhG/Ultra-Buildings)
 
-**Website Link** [Website Link](https://ultra-structures.netlify.com)
+**Website Link:** [Website Link](https://ultra-structures.netlify.com)
 
 **Project Details**
 
@@ -86,9 +86,9 @@ HTML, CSS, JS, Foundation Framework, Jquery
 ### 3. Najivunia Kenya
 _________________
 
-**Repo Link** [Repository Link](https://github.com/EduhG/Najivunia-Kenya)
+**Repo Link:** [Repository Link](https://github.com/EduhG/Najivunia-Kenya)
 
-**Website Link** [Website Link](https://najivunia-kenya.netlify.com)
+**Website Link:** [Website Link](https://najivunia-kenya.netlify.com)
 
 **Project Details**
 
