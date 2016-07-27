@@ -1,4 +1,4 @@
-<h1>Personal Website</h1>
+<h1 style = "margin:0; text-decoration: none">Personal Website</h1>
 <hr>
 
 
