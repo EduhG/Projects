@@ -1,7 +1,3 @@
-<h1 style = "margin:0; text-decoration: none">Personal Website</h1>
-<hr>
-
-
 ### Personal Website
 _________________
 
@@ -27,7 +23,7 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
  
-<hr>
+<hr style = "margin:0; text-decoration: none">
 # Personal Projects
 _________________
 
