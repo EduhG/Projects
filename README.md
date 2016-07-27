@@ -22,9 +22,9 @@ A website with 4 Sections:
 HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
- 
-<hr style = "margin:0; text-decoration: none">
-# Personal Projects
+
+
+## Personal Projects
 _________________
 
 ## **Front End Projects**
