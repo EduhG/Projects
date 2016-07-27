@@ -31,7 +31,7 @@ HTML, CSS, JS, Foundation Framework and Jquery
 ### JedoMagra Enterprises
 _________________
 
- **Repo Link** https://github.com/EduhG/JedoMagra
+  **Repo Link** https://github.com/EduhG/JedoMagra
 
  **Website Link** https://jedomagra-enterprises.netlify.com
 
