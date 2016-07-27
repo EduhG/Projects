@@ -25,10 +25,11 @@ HTML, CSS, JS, Foundation Framework and Jquery
  
 
 # Personal Projects
+_________________
 
 ## **Front End Projects**
 
-1. ### JedoMagra Enterprises
+1. ###JedoMagra Enterprises
 _________________
 
 **Repo Link** https://github.com/EduhG/JedoMagra
