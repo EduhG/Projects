@@ -23,8 +23,9 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
 
-_________________
+
 # Personal Projects
+_________________
 
 ## **Front End Projects**
 
@@ -105,6 +106,8 @@ Single page website with 4 Sections:
 HTML, CSS, JS, Foundation Framework, Jquery
 
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
-  
+
+
+## **Back End Projects**
 
  
