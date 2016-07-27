@@ -1,9 +1,9 @@
 ### Personal Website
 _________________
 
-**Repo Link** [Repository Link](https://github.com/EduhG/my-personal-website)
+**Repo Link:**  [Repository Link](https://github.com/EduhG/my-personal-website)
 
-**Website Link** [Website Link](https://eduhg.netlify.com)
+**Website Link:**  [Website Link](https://eduhg.netlify.com)
 
 **Project Details**
 
