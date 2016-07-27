@@ -28,25 +28,12 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 ## **Front End Projects**
 
-### 1. Menu
-_________________
-  
-  Repo Link: [Menu](https://github.com/BrianLusina/Menu)
-  
-  Project Details: Website for a restaurant which allows for user interaction, 
-  
-  Features: Full Screen menu, Historical Time line, order form, food menu
-  
-  Tools: Modernizr.js, Foundation Framework, Fontawesome icons,
-
-  Contributors: [Brian Lusina](https://github.com/BrianLusina/)
-
-### JedoMagra Enterprises
+### 1. JedoMagra Enterprises
 _________________
 
-**Repo Link** https://github.com/EduhG/JedoMagra
+**Repo Link:** [Repository Link](https://github.com/EduhG/JedoMagra)
 
-**Website Link** https://jedomagra-enterprises.netlify.com
+**Website Link:** [Website Link](https://jedomagra-enterprises.netlify.com)
 
 **Project Details**
 
@@ -69,12 +56,12 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 
 
-### Ultra Buildings
+### 2. Ultra Buildings
 _________________
 
-**Repo Link** https://github.com/EduhG/Ultra-Buildings
+**Repo Link** [Repository Link](https://github.com/EduhG/Ultra-Buildings)
 
-**Website Link** https://ultra-structures.netlify.com
+**Website Link** [Website Link](https://ultra-structures.netlify.com)
 
 **Project Details**
 
@@ -95,12 +82,12 @@ HTML, CSS, JS, Foundation Framework, Jquery
 
 
 
-### Najivunia Kenya
+### 3. Najivunia Kenya
 _________________
 
-**Repo Link** https://github.com/EduhG/Najivunia-Kenya
+**Repo Link** [Repository Link](https://github.com/EduhG/Najivunia-Kenya)
 
-**Website Link** https://najivunia-kenya.netlify.com
+**Website Link** [Website Link](https://najivunia-kenya.netlify.com)
 
 **Project Details**
 
