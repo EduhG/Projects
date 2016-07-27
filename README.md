@@ -28,24 +28,36 @@ HTML, CSS, JS, Foundation Framework and Jquery
 
 ## **Front End Projects**
 
+1. ###Menu
+  
+  Repo Link: [Menu](https://github.com/BrianLusina/Menu)
+  
+  Project Details: Website for a restaurant which allows for user interaction, 
+  
+  Features: Full Screen menu, Historical Time line, order form, food menu
+  
+  Tools: Modernizr.js, Foundation Framework, Fontawesome icons,
+
+  Contributors: [Brian Lusina](https://github.com/BrianLusina/)
+
 ### JedoMagra Enterprises
 _________________
 
-  **Repo Link** https://github.com/EduhG/JedoMagra
+**Repo Link** https://github.com/EduhG/JedoMagra
 
- **Website Link** https://jedomagra-enterprises.netlify.com
+**Website Link** https://jedomagra-enterprises.netlify.com
 
- **Project Details**
+**Project Details**
 
-  A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
+A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
 
- **Features**
+**Features**
 
- Single page website with 4 Sections:
- * Home
- * Our Products
- * About Us
- * Contacts
+Single page website with 4 Sections:
+* Home
+* Our Products
+* About Us
+* Contacts
 
 **Tools Used**
 
