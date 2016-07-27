@@ -24,7 +24,7 @@ HTML, CSS, JS, Foundation Framework and Jquery
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
 
 
-## Personal Projects
+### Personal Projects
 _________________
 
 ## **Front End Projects**
