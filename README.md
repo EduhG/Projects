@@ -119,7 +119,7 @@ _________________
 
 **Project Details**
 
-A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
+A Flask Web App that lets people organize and arrange for Road Trips and also suggest great locations by sharing Pictures and experiences..
 
 **Features**
 
