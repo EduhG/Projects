@@ -110,4 +110,31 @@ HTML, CSS, JS, Foundation Framework, Jquery
 
 ## **Back End Projects**
 
+### 1. Road Trip
+_________________
+
+**Repo Link:** [Repository Link](https://github.com/EduhG/Road-Trip)
+
+**Website Link:** [Website Link](https://road-trip.herokuapp.com)
+
+**Project Details**
+
+A Single page website for a startup SME (Small and Medium-Sized Enterprise) dealing with production and packaging of natural tomato products.
+
+**Features**
+
+A web App with the following sections:
+* Home
+* About US
+* Register
+* Login
+* Profile/Dashboard
+
+**Tools Used**
+
+Flask, SQLAlchemy, HTML, CSS, JS, Foundation Framework and Jquery
+
+**Contributors** [Edwin Nyangena](https://github.com/EduhG)
+<br> 
+
  
