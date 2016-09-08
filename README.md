@@ -137,4 +137,62 @@ Flask, SQLAlchemy, HTML, CSS, JS, Foundation Framework and Jquery
 **Contributors** [Edwin Nyangena](https://github.com/EduhG)
 <br> 
 
+### 2. Auto Exam
+_________________
+
+**Repo Link:** [Repository Link](https://github.com/EduhG/Road-Trip)
+
+**Website Link:** [Website Link](https://auto-exam.herokuapp.com)
+
+**Project Details**
+
+A Flask Web App that lets schools enter and manage student performance, marks, generate report cards and monitor student performance progress.
+
+**Features**
+
+A web App with the following sections:
+* Home
+* About US
+* Register
+* Login
+* Profile/Dashboard
+* Student Registration
+* Exam marks entry
+* Performance reports
+
+**Tools Used**
+
+Flask, SQLAlchemy, HTML, CSS, JS, Foundation Framework, chartjs and Jquery
+
+**Contributors** [Edwin Nyangena](https://github.com/EduhG)
+<br> 
+
  
+ ## **Android Projects**
+
+### 1. OnChat
+_________________
+
+**Repo Link:** [Repository Link](https://github.com/EduhG/OnChat)
+
+**Website Link:** [Website Link](https://appetize.io/app/3qwmpnw5da8whup1qj7k5hcu1g?device=nexus5&scale=75&orientation=portrait&osVersion=6.0)
+
+**Project Details**
+
+An online chatting app.
+
+**Features**
+
+An android App with the following features:
+* Send and Receive messages instantly
+* Authentication
+* Create groups
+* Profile/Dashboard
+
+**Tools Used**
+
+Android and Firebase
+
+**Contributors** [Edwin Nyangena](https://github.com/EduhG)
+<br> 
+
