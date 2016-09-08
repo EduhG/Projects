@@ -168,7 +168,7 @@ Flask, SQLAlchemy, HTML, CSS, JS, Foundation Framework, chartjs and Jquery
 <br> 
 
  
- ## **Android Projects**
+## **Android Projects**
 
 ### 1. OnChat
 _________________
